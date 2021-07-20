@@ -16,7 +16,7 @@ String serverName = "http://192.168.11.1/";
 
 
 long lastTime ;
-long waitTime = 5000; // Waittime in ms
+long waitTime = 2000; // Waittime in ms
 
 const char* ssid = "esp32network";
 const char* password = "azerty00";
